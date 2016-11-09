@@ -80,6 +80,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#24adae', end
 .p{
   line-height: 26px;
 }
+
+.padding-top{
+  padding-top: 130px;
+}
 /*
 ///////////////////////////navigation/////////////////////*/
 
@@ -181,8 +185,9 @@ box-shadow: 0px 6px 5px -1px rgba(0,0,0,0.29);
 }
 
 .dienst-margin{
-  padding-right: 70px;
-  padding-left: 70px;
+    padding-right: 58px;
+    padding-left: 58px;
+
 }
 
 .last-padding{
